@@ -1,0 +1,162 @@
+[2021-07-18 01:59:06.555] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-07-18 01:59:06.555] [board_logger] [trace] Board object created -1
+[2021-07-18 01:59:06.555] [board_logger] [trace] prepare session
+[2021-07-18 01:59:06.562] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 01:59:42.988] [board_logger] [trace] release session
+[2021-07-18 01:59:42.988] [board_logger] [trace] stop stream
+[2021-07-18 03:17:53.833] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-07-18 03:17:53.833] [board_logger] [trace] Board object created -1
+[2021-07-18 03:17:53.833] [board_logger] [trace] prepare session
+[2021-07-18 03:17:53.840] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 03:17:59.803] [board_logger] [trace] release session
+[2021-07-18 03:17:59.803] [board_logger] [trace] stop stream
+[2021-07-18 03:24:10.971] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-07-18 03:24:10.971] [board_logger] [trace] Board object created -1
+[2021-07-18 03:24:10.971] [board_logger] [trace] prepare session
+[2021-07-18 03:24:10.978] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 03:24:51.482] [board_logger] [trace] release session
+[2021-07-18 03:24:51.482] [board_logger] [trace] stop stream
+[2021-07-18 03:26:40.810] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-07-18 03:26:40.811] [board_logger] [trace] Board object created -1
+[2021-07-18 03:26:40.811] [board_logger] [trace] prepare session
+[2021-07-18 03:26:40.818] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 03:26:44.275] [board_logger] [trace] release session
+[2021-07-18 03:26:44.275] [board_logger] [trace] stop stream
+[2021-07-18 03:26:59.042] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-07-18 03:26:59.042] [board_logger] [trace] Board object created -1
+[2021-07-18 03:26:59.042] [board_logger] [trace] prepare session
+[2021-07-18 03:26:59.049] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 03:27:16.073] [board_logger] [trace] release session
+[2021-07-18 03:27:16.073] [board_logger] [trace] stop stream
+[2021-07-18 03:29:08.247] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-07-18 03:29:08.247] [board_logger] [trace] Board object created -1
+[2021-07-18 03:29:08.247] [board_logger] [trace] prepare session
+[2021-07-18 03:29:08.255] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 03:29:39.160] [board_logger] [trace] release session
+[2021-07-18 03:29:39.160] [board_logger] [trace] stop stream
+[2021-07-18 03:34:42.756] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 03:34:42.756] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-18 03:34:42.756] [board_logger] [trace] Board object created 1
+[2021-07-18 03:34:42.757] [board_logger] [debug] Library is loaded
+[2021-07-18 03:34:42.757] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-18 03:34:42.757] [board_logger] [debug] ganglionlib initialized
+[2021-07-18 03:34:42.757] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-18 03:34:58.822] [board_logger] [error] failed to Open Ganglion Device 15
+[2021-07-18 03:35:33.075] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 03:35:33.075] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-18 03:35:33.075] [board_logger] [trace] Board object created 1
+[2021-07-18 03:35:33.076] [board_logger] [debug] Library is loaded
+[2021-07-18 03:35:33.076] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-18 03:35:33.076] [board_logger] [debug] ganglionlib initialized
+[2021-07-18 03:35:33.076] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-18 03:35:34.631] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 03:35:34.632] [board_logger] [info] use command b to start streaming
+[2021-07-18 03:35:34.692] [board_logger] [debug] start streaming
+[2021-07-18 03:44:01.080] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 03:44:01.080] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-18 03:44:01.080] [board_logger] [trace] Board object created 1
+[2021-07-18 03:44:01.081] [board_logger] [debug] Library is loaded
+[2021-07-18 03:44:01.081] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-18 03:44:01.081] [board_logger] [debug] ganglionlib initialized
+[2021-07-18 03:44:01.081] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-18 03:44:02.654] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 03:44:02.654] [board_logger] [info] use command b to start streaming
+[2021-07-18 03:44:02.715] [board_logger] [debug] start streaming
+[2021-07-18 04:03:45.116] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 04:03:45.117] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-18 04:03:45.117] [board_logger] [trace] Board object created 1
+[2021-07-18 04:03:45.117] [board_logger] [debug] Library is loaded
+[2021-07-18 04:03:45.117] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-18 04:03:45.117] [board_logger] [debug] ganglionlib initialized
+[2021-07-18 04:03:45.117] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-18 04:03:45.117] [board_logger] [error] Make sure you provided correct port name and have permissions to open it(run with sudo/admin). And close all other apps using this port.
+[2021-07-18 04:03:45.117] [board_logger] [error] failed to Open Ganglion Device 18
+[2021-07-18 04:03:58.508] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 04:03:58.508] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-18 04:03:58.508] [board_logger] [trace] Board object created 1
+[2021-07-18 04:03:58.509] [board_logger] [debug] Library is loaded
+[2021-07-18 04:03:58.509] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-18 04:03:58.509] [board_logger] [debug] ganglionlib initialized
+[2021-07-18 04:03:58.509] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-18 04:03:58.509] [board_logger] [error] Make sure you provided correct port name and have permissions to open it(run with sudo/admin). And close all other apps using this port.
+[2021-07-18 04:03:58.509] [board_logger] [error] failed to Open Ganglion Device 18
+[2021-07-18 04:04:07.221] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 04:04:07.222] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-18 04:04:07.222] [board_logger] [trace] Board object created 1
+[2021-07-18 04:04:07.222] [board_logger] [debug] Library is loaded
+[2021-07-18 04:04:07.222] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-18 04:04:07.222] [board_logger] [debug] ganglionlib initialized
+[2021-07-18 04:04:07.222] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-18 04:04:08.804] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 04:04:08.805] [board_logger] [info] use command b to start streaming
+[2021-07-18 04:04:08.865] [board_logger] [debug] start streaming
+[2021-07-18 04:06:41.626] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 04:06:41.627] [board_logger] [error] Board with id 1 and the same config already exists
+[2021-07-18 04:06:59.710] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 04:06:59.710] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-18 04:06:59.710] [board_logger] [trace] Board object created 1
+[2021-07-18 04:06:59.710] [board_logger] [debug] Library is loaded
+[2021-07-18 04:06:59.710] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-18 04:06:59.710] [board_logger] [debug] ganglionlib initialized
+[2021-07-18 04:06:59.710] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-18 04:07:01.232] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 04:07:01.233] [board_logger] [info] use command b to start streaming
+[2021-07-18 04:07:01.284] [board_logger] [debug] start streaming
+[2021-07-18 04:08:29.766] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 04:08:29.766] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-18 04:08:29.766] [board_logger] [trace] Board object created 1
+[2021-07-18 04:08:29.767] [board_logger] [debug] Library is loaded
+[2021-07-18 04:08:29.767] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-18 04:08:29.767] [board_logger] [debug] ganglionlib initialized
+[2021-07-18 04:08:29.767] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-18 04:08:31.377] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 04:08:31.377] [board_logger] [info] use command b to start streaming
+[2021-07-18 04:08:31.439] [board_logger] [debug] start streaming
+[2021-07-18 04:09:14.467] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 04:09:14.467] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-18 04:09:14.467] [board_logger] [trace] Board object created 1
+[2021-07-18 04:09:14.468] [board_logger] [debug] Library is loaded
+[2021-07-18 04:09:14.468] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-18 04:09:14.468] [board_logger] [debug] ganglionlib initialized
+[2021-07-18 04:09:14.468] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-18 04:09:15.994] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 04:09:15.994] [board_logger] [info] use command b to start streaming
+[2021-07-18 04:09:16.046] [board_logger] [debug] start streaming
+[2021-07-18 04:12:41.657] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 04:12:41.657] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-18 04:12:41.657] [board_logger] [trace] Board object created 1
+[2021-07-18 04:12:41.657] [board_logger] [debug] Library is loaded
+[2021-07-18 04:12:41.657] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-18 04:12:41.657] [board_logger] [debug] ganglionlib initialized
+[2021-07-18 04:12:41.657] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-18 04:12:43.143] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 04:12:43.144] [board_logger] [info] use command b to start streaming
+[2021-07-18 04:12:43.194] [board_logger] [debug] start streaming
+[2021-07-18 04:15:17.503] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 04:15:17.503] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-18 04:15:17.503] [board_logger] [trace] Board object created 1
+[2021-07-18 04:15:17.503] [board_logger] [debug] Library is loaded
+[2021-07-18 04:15:17.503] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-18 04:15:17.503] [board_logger] [debug] ganglionlib initialized
+[2021-07-18 04:15:17.503] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-18 04:15:19.025] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 04:15:19.026] [board_logger] [info] use command b to start streaming
+[2021-07-18 04:15:19.087] [board_logger] [debug] start streaming
+[2021-07-18 05:38:26.180] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-18 05:38:26.180] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-18 05:38:26.180] [board_logger] [trace] Board object created 1
+[2021-07-18 05:38:26.180] [board_logger] [debug] Library is loaded
+[2021-07-18 05:38:26.180] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-18 05:38:26.180] [board_logger] [debug] ganglionlib initialized
+[2021-07-18 05:38:26.180] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-18 05:38:27.853] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-07-18 05:38:27.854] [board_logger] [info] use command b to start streaming
+[2021-07-18 05:38:27.936] [board_logger] [debug] start streaming
+[2021-07-30 18:39:42.388] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"COM6","timeout":0}
+[2021-07-30 18:39:42.389] [board_logger] [debug] use dyn lib: C:\Users\sheld\Desktop\TLEF\Quest 2\GanglionLib.dll
+[2021-07-30 18:39:42.389] [board_logger] [trace] Board object created 1
+[2021-07-30 18:39:42.409] [board_logger] [debug] Library is loaded
+[2021-07-30 18:39:42.409] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-07-30 18:39:42.409] [board_logger] [debug] ganglionlib initialized
+[2021-07-30 18:39:42.409] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2021-07-30 18:39:58.548] [board_logger] [error] failed to Open Ganglion Device 15
